@@ -1,0 +1,13 @@
+{
+  "name": "BetterRoboportCharging",
+  "version": "0.5.0",
+  
+  "title": "Better Roboport Charging",
+  "description": "It just makes Roboports charge faster",
+  
+  "author": "agawa",
+  "license": "Unlicense",
+  
+  "dependencies": ["base"],
+  "factorio_version": "1.1"
+}
